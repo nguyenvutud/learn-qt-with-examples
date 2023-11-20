@@ -1,0 +1,5 @@
+/home/vunguyen/QT_workspace/QTest_test_benchmark/CMakeFiles/rebuild_cache.dir
+/home/vunguyen/QT_workspace/QTest_test_benchmark/CMakeFiles/edit_cache.dir
+/home/vunguyen/QT_workspace/QTest_test_benchmark/CMakeFiles/test.dir
+/home/vunguyen/QT_workspace/QTest_test_benchmark/CMakeFiles/TestBenchmark.dir
+/home/vunguyen/QT_workspace/QTest_test_benchmark/CMakeFiles/TestBenchmark_autogen.dir

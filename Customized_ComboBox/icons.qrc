@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>drop-down1.png</file>
+        <file>drop-down.png</file>
+        <file>drop-down2.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>

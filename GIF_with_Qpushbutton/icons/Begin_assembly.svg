@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 208.11 203.62">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f2f2f2;
+        font-family: Montserrat-Medium, Montserrat;
+        font-size: 23px;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #009ab7;
+        stroke-miterlimit: 10;
+        stroke-width: 4.2px;
+      }
+    </style>
+  </defs>
+  <g id="GUI">
+    <g>
+      <text class="cls-1" transform="translate(25.34 86.06)"><tspan x="0" y="0">begin </tspan><tspan x="0" y="27.6">assembly</tspan></text>
+      <path class="cls-2" d="M72.08,193.26l77.17-56.07c23.56-17.12,23.56-52.24,0-69.36L70.17,10.37C41.56-10.41,1.51,10.42,2.11,45.77l1.91,113.53c.58,34.69,39.99,54.35,68.06,33.96Z"/>
+    </g>
+  </g>
+</svg>

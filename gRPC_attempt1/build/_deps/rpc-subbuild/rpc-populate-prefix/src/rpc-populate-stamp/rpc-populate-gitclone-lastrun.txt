@@ -1,0 +1,3 @@
+repository='https://nguyenvutud:vu010203@gitlab.com/mimetik-development/software/comms/rpc.git'
+module=''
+tag='origin'

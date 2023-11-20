@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icons/checked.png</file>
+        <file>icons/Gesture_next.png</file>
+        <file>icons/Gesture_next.svg</file>
+    </qresource>
+</RCC>

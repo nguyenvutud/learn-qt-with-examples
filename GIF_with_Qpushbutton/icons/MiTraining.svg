@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 78 83">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #324555;
+        filter: url(#drop-shadow-1);
+      }
+    </style>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="1.88" dy="3.77"/>
+      <feGaussianBlur result="blur" stdDeviation="4.71"/>
+      <feFlood flood-color="#000" flood-opacity=".37"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="GUI">
+    <g>
+      <rect class="cls-1" x="3.43" y="3.29" width="65.7" height="65.7" rx="17.63" ry="17.63"/>
+      <path class="cls-2" d="M60.23,27.8c6.07,12.53-21.6,38.78-31.97,36.11-12.13-3.17-20.35-42.46-11.79-50.34,8.56-7.88,39.17,4.71,43.77,14.23Z"/>
+      <g id="M">
+        <path class="cls-1" d="M24.06,45.9V25.88h5.83c1.81,4.47,3.63,9.01,5.51,13.54,1.75-4.6,3.5-9.07,5.25-13.54h6.09v20.02h-4.34v-13.09h-.06c-1.75,4.41-3.43,8.75-5.18,13.15h-3.63c-1.75-4.34-3.43-8.62-5.18-12.96h-.06v12.96h-4.21v-.06Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

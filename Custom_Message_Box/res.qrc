@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/Popup_white.svg</file>
+        <file>images/Play.svg</file>
+        <file>images/Down.svg</file>
+        <file>images/Pause.svg</file>
+        <file>images/Wifi_lost.svg</file>
+        <file>images/Wifi_low.svg</file>
+        <file>images/Wifi_good.svg</file>
+        <file>images/Asset 3.svg</file>
+        <file>images/Asset 4.svg</file>
+        <file>images/background.svg</file>
+        <file>images/exit_button_black.png</file>
+    </qresource>
+</RCC>

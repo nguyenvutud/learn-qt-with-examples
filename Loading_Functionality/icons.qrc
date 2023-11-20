@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/magenta.svg</file>
+        <file>icons/cyan.svg</file>
+        <file>icons/yellow.svg</file>
+        <file>icons/mimetik-logo.svg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>../../dev/mimetik/glove-sdk/icons/mimetik-logo.svg</file>
+    </qresource>
+</RCC>

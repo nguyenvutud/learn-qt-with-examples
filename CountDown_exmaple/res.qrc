@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>numData/9.png</file>
+        <file>numData/8.png</file>
+        <file>numData/7.png</file>
+        <file>numData/6.png</file>
+        <file>numData/5.png</file>
+        <file>numData/4.png</file>
+        <file>numData/3.png</file>
+        <file>numData/2.png</file>
+        <file>numData/1.png</file>
+        <file>numData/start.png</file>
+    </qresource>
+</RCC>

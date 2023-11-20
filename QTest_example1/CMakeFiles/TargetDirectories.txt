@@ -1,0 +1,5 @@
+/home/vunguyen/QT_workspace/QTest_example1/CMakeFiles/testQString.dir
+/home/vunguyen/QT_workspace/QTest_example1/CMakeFiles/test.dir
+/home/vunguyen/QT_workspace/QTest_example1/CMakeFiles/edit_cache.dir
+/home/vunguyen/QT_workspace/QTest_example1/CMakeFiles/rebuild_cache.dir
+/home/vunguyen/QT_workspace/QTest_example1/CMakeFiles/testQString_autogen.dir

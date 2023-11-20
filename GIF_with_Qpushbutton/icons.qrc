@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/Your_time.svg</file>
+        <file>icons/Repeat.svg</file>
+        <file>icons/Process.svg</file>
+        <file>icons/Person_ID.svg</file>
+        <file>icons/Next.svg</file>
+        <file>icons/MiTraining.svg</file>
+        <file>icons/mimetik_logo.png</file>
+        <file>icons/Good_connection.svg</file>
+        <file>icons/Fastest_time.svg</file>
+        <file>icons/Exit.svg</file>
+        <file>icons/Efficiency.svg</file>
+        <file>icons/Blue_arrow.svg</file>
+        <file>icons/Begin_assembly.svg</file>
+        <file>icons/Bad_connection.svg</file>
+        <file>icons/animation_bye.gif</file>
+    </qresource>
+</RCC>

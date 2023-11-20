@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/shark-background.png</file>
+        <file>images/resize-image.svg</file>
+        <file>images/no_glove_connected.svg</file>
+    </qresource>
+</RCC>

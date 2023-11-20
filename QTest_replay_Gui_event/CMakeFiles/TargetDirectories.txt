@@ -1,0 +1,5 @@
+/home/vunguyen/QT_workspace/QTest_replay_Gui_event/CMakeFiles/rebuild_cache.dir
+/home/vunguyen/QT_workspace/QTest_replay_Gui_event/CMakeFiles/edit_cache.dir
+/home/vunguyen/QT_workspace/QTest_replay_Gui_event/CMakeFiles/test.dir
+/home/vunguyen/QT_workspace/QTest_replay_Gui_event/CMakeFiles/replaying_event.dir
+/home/vunguyen/QT_workspace/QTest_replay_Gui_event/CMakeFiles/replaying_event_autogen.dir

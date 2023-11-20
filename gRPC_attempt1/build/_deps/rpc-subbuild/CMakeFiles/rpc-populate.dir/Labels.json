@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/vunguyen/QT_workspace/gRPC_attempt1/build/_deps/rpc-subbuild/CMakeFiles/rpc-populate"
+		},
+		{
+			"file" : "/home/vunguyen/QT_workspace/gRPC_attempt1/build/_deps/rpc-subbuild/CMakeFiles/rpc-populate.rule"
+		},
+		{
+			"file" : "/home/vunguyen/QT_workspace/gRPC_attempt1/build/_deps/rpc-subbuild/CMakeFiles/rpc-populate-complete.rule"
+		},
+		{
+			"file" : "/home/vunguyen/QT_workspace/gRPC_attempt1/build/_deps/rpc-subbuild/rpc-populate-prefix/src/rpc-populate-stamp/rpc-populate-install.rule"
+		},
+		{
+			"file" : "/home/vunguyen/QT_workspace/gRPC_attempt1/build/_deps/rpc-subbuild/rpc-populate-prefix/src/rpc-populate-stamp/rpc-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/vunguyen/QT_workspace/gRPC_attempt1/build/_deps/rpc-subbuild/rpc-populate-prefix/src/rpc-populate-stamp/rpc-populate-download.rule"
+		},
+		{
+			"file" : "/home/vunguyen/QT_workspace/gRPC_attempt1/build/_deps/rpc-subbuild/rpc-populate-prefix/src/rpc-populate-stamp/rpc-populate-update.rule"
+		},
+		{
+			"file" : "/home/vunguyen/QT_workspace/gRPC_attempt1/build/_deps/rpc-subbuild/rpc-populate-prefix/src/rpc-populate-stamp/rpc-populate-patch.rule"
+		},
+		{
+			"file" : "/home/vunguyen/QT_workspace/gRPC_attempt1/build/_deps/rpc-subbuild/rpc-populate-prefix/src/rpc-populate-stamp/rpc-populate-configure.rule"
+		},
+		{
+			"file" : "/home/vunguyen/QT_workspace/gRPC_attempt1/build/_deps/rpc-subbuild/rpc-populate-prefix/src/rpc-populate-stamp/rpc-populate-build.rule"
+		},
+		{
+			"file" : "/home/vunguyen/QT_workspace/gRPC_attempt1/build/_deps/rpc-subbuild/rpc-populate-prefix/src/rpc-populate-stamp/rpc-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"rpc-populate"
+		],
+		"name" : "rpc-populate"
+	}
+}
